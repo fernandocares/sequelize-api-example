@@ -1,0 +1,20 @@
+{
+  "name": "fruitdata",
+  "version": "1.0.0",
+  "description": "An api for university work using sequelize",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Fernando Cares",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.3",
+    "express-validator": "^5.2.0",
+    "mysql2": "^1.5.3",
+    "nodemon": "^1.17.4",
+    "pg": "^7.4.3",
+    "sequelize": "^4.37.7"
+  }
+}
